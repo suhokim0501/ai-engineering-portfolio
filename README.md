@@ -11,8 +11,9 @@
 | 프로젝트 | 해결하려던 문제 | 주요 기술 | 결과 |
 |---|---|---|---|
 | [Claude 기반 간호사 스케줄링 MCP](https://github.com/suhokim0501/claude-scheduling-demo) | 현업 사용자가 코드 수정 없이 근무표 생성 조건을 바꾸고 결과를 검토하는 흐름 | Python · FastMCP · Pydantic · pandas · OR-Tools CP-SAT | 설정·생성·분석·비교·출력을 연결한 로컬 데모 |
-| [OGC 차량 적재 최적화](https://github.com/suhokim0501/opt-grand-challenge/tree/refactor/ogc-project-structure) | 여러 항구를 방문하는 차량운반선의 선적·하역·재배치 비용 | Python · NetworkX · NumPy · Multiprocessing | 전국 343팀 중 17위 |
 | [스마트 횡단보도](https://github.com/suhokim0501/smart-crosswalk-system) | 보행자의 이동 속도에 따라 필요한 추가 횡단 시간을 판단하는 문제 | Python · YOLOv8 · ByteTrack · OpenCV · NumPy | Ambient AI 경진대회 2위 |
+| [OGC 차량 적재 최적화](https://github.com/suhokim0501/opt-grand-challenge/tree/refactor/ogc-project-structure) | 여러 항구를 방문하는 차량운반선의 선적·하역·재배치 비용 | Python · NetworkX · NumPy · Multiprocessing | 전국 343팀 중 17위 |
+
 
 ## 1. Claude 기반 간호사 스케줄링 MCP
 
